@@ -10,3 +10,5 @@ A collection of jupyter notebooks, mostly on math and python.
 ## Index
 
 - [Stat110](./stat110/README.md)
+- [Calculus](./calculus/README.md)
+- [Linear algebra](./linear-algebra/README.md)
