@@ -9,4 +9,4 @@ A collection of jupyter notebooks, mostly on math and python.
 
 ## Index
 
-- [Stat110](./math/stat110/README.md)
+- [Stat110](./stat110/README.md)
