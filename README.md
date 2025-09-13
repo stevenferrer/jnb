@@ -1,14 +1,16 @@
 # Jupyter notebooks
 
-A collection of jupyter notebooks, mostly on math and python.
+A collection of [Jupyter](https://jupyter.org) notebooks, mostly on math and [Python](https://www.python.org).
 
-## Environment setup
+## How to setup
 
-- Each subdirectory should have it's own dedicated environment.
-- Use `conda` to create environments, use `pip` to install package.
+- Each subdirectory should have its own virtual environment.
+- Use `conda` to virtual environments, use `pip` to install package.
 
 ## Index
 
 - [Stat110](./stat110/README.md)
 - [Calculus](./calculus/README.md)
 - [Linear algebra](./linear-algebra/README.md)
+- [ISLP](./islp/README.md)
+- [micrograd](./micrograd/README.md)
